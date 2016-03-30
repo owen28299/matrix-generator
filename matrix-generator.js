@@ -25,4 +25,4 @@ function generator (rows, columns){
   return myMatrix;
 }
 
-console.log(generator(3,3));
+console.log(generator(5,3));
